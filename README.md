@@ -56,6 +56,6 @@ knockback: [1b]
 
 /data modify storage senba.damage owner set from entity @p UUID
 
-# 仕様ライブラリ
+## 仕様ライブラリ
 https://ai-akaishi.booth.pm/items/3197831
 
